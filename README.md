@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Jefferso72js
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Jefferso72js/Jefferso72js is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+---> «Hi, I'm <Username> and I'm an avid learner of computer science and programming. I love exploring new and exciting technologies and applying them in different projects.
+I'm proud to say that I've been working on some projects in GitHub and I'm excited to explore more ideas and technologies in the future.
+As they say "the sky's the limit", and I can't wait to see what other projects I can create and explore in the future!
+Thanks for taking the time to read this!»
